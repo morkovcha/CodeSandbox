@@ -1,0 +1,35 @@
+.section3 {
+  text-align: center;
+}
+.section3_img {
+  max-width: 60%;
+}
+.section3_h1 {
+  font-weight: 300;
+  font-size: 5vw;
+  margin: auto;
+  max-width: 26vw;
+  margin-bottom: 1.6vw;
+}
+.section3_button {
+  max-width: 6vw;
+  font-size: 0.9vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.6%;
+  border-radius: 4px;
+  color: rgba(234, 255, 150, 1);
+  margin-bottom: 8vw;
+  transition: 0.5s;
+}
+.section3_button:hover {
+  background-color: rgba(234, 255, 150, 1);
+  color: black;
+  cursor: pointer;
+}
+.section3_p {
+  color: rgb(138, 143, 143);
+  font-size: 0.9vw;
+  width: 22vw;
+  margin: auto;
+}

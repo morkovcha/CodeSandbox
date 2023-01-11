@@ -1,0 +1,41 @@
+/* .section6 {
+  background: url(/assets/section6_4.png) no-repeat;
+}  */
+.section6_svg1 {
+  max-width: 60%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.section6_svg_width {
+  width: 30%;
+}
+.section6_p1 {
+  text-align: center;
+  margin: auto;
+  font-size: 2.4vw;
+  margin: auto;
+  max-width: 25%;
+  margin-bottom: 5vw;
+}
+.section6_svg {
+  background-color: rgb(22, 22, 23);
+  border-radius: 4px;
+  max-width: 30%;
+  padding-top: 4vw;
+  margin-bottom: 20vw;
+  padding-bottom: 3vw;
+}
+.section6_p2 {
+  font-size: 1.5vw;
+  margin: auto;
+  max-width: 60%;
+  padding-bottom: 2vw;
+}
+.section6_p3 {
+  color: rgb(140, 144, 144);
+  font-size: 0.9vw;
+  max-width: 68%;
+  margin: auto;
+}

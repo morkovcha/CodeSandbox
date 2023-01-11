@@ -1,0 +1,65 @@
+.section4 {
+  text-align: center;
+}
+.section4_img {
+  max-width: 60%;
+}
+.section4_p {
+  color: rgb(138, 143, 143);
+  font-size: 0.9vw;
+  width: 22vw;
+  margin: auto;
+  top: -13.7vw;
+  position: relative;
+}
+.section4_h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 2.5vw;
+  margin: auto;
+  max-width: 25%;
+  margin-bottom: 2vw;
+  top: -13.7vw;
+  position: relative;
+}
+.section4_img1 {
+  max-width: 80%;
+  margin: auto;
+}
+.section4_1 {
+  top: -7vw;
+  position: relative;
+  max-width: 6%;
+  margin-left: 4.5vw;
+}
+.section4_2 {
+  margin-left: 3vw;
+  top: -7vw;
+  position: relative;
+  max-width: 8%;
+}
+.section4_4 {
+  top: -7vw;
+  max-width: 7%;
+  margin-left: 32vw;
+  position: relative;
+  margin-right: 6vw;
+}
+.section4_5 {
+  max-width: 8%;
+  top: -7vw;
+  position: relative;
+}
+.section4_3 {
+  top: -6vw;
+  margin-right: 44vw;
+  margin-left: 4vw;
+  position: relative;
+  max-width: 7%;
+}
+.section4_6 {
+  top: -6vw;
+  margin-left: 8vw;
+  position: relative;
+  max-width: 5%;
+}

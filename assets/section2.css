@@ -1,0 +1,35 @@
+.section2 {
+  text-align: center;
+}
+.section2_title {
+  justify-content: space-around;
+  font-size: 0.9vw;
+  display: flex;
+  margin: auto;
+  max-width: 30vw;
+  color: rgb(140, 144, 144);
+  transition: 0.3s;
+}
+.section2_title1:hover {
+  color: azure;
+  cursor: pointer;
+}
+.section2_p {
+  max-width: 30vw;
+  margin: auto;
+  margin-top: 3vw;
+  font-size: 0.9vw;
+  font-weight: 400;
+  color: azure;
+  margin-bottom: 6vw;
+}
+.section2_img {
+  max-width: 60%;
+  margin-bottom: 20vw;
+}
+.section2_hr {
+  height: 0.05vw;
+  width: 31vw;
+  border: 0;
+  background-color: rgb(76, 78, 78);
+}

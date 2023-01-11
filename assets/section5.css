@@ -1,0 +1,24 @@
+.section5 {
+  max-width: 60%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.section5_svg {
+  background-color: rgb(22, 22, 23);
+  border-radius: 4px;
+  max-width: 30%;
+  padding-top: 4vw;
+  margin-bottom: 18vw;
+  padding-bottom: 3vw;
+}
+.section5_p1 {
+  font-size: 1.5vw;
+}
+.section5_p2 {
+  color: rgb(140, 144, 144);
+  font-size: 0.8vw;
+  max-width: 60%;
+  margin: auto;
+}

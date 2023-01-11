@@ -1,0 +1,50 @@
+.CodeSandbox {
+  margin-right: 3vw;
+  font-size: 1.1vw;
+  color: azure;
+}
+/* .kub_svg {
+  margin-left: 10vw;
+  max-width: 2vw;
+} */
+.header {
+  background-color: rgb(22, 22, 23);
+}
+.title {
+  font-size: 0.8vw;
+  margin: auto;
+  max-width: 62vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: rgb(140, 144, 144);
+  margin-bottom: 2vw;
+}
+.title1:hover {
+  color: rgb(210, 216, 216);
+  cursor: pointer;
+}
+.Create_Sandbox {
+  padding: 0.6%;
+  border-radius: 5px;
+  color: black;
+  background-color: rgba(234, 255, 150, 1);
+}
+.Create_Sandbox:hover {
+  cursor: pointer;
+}
+.header_img {
+  width: 60%;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 6vw;
+}
+.header_1 {
+  max-width: 10%;
+}
+.header_codBoxe {
+  margin-right: 0.4vw;
+  max-width: 12%;
+}

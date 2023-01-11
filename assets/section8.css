@@ -1,0 +1,56 @@
+.section8 {
+  text-align: center;
+}
+.section8_p1 {
+  font-size: 2.4vw;
+}
+.section8_p2 {
+  color: rgb(140, 144, 144);
+  font-size: 0.8vw;
+  max-width: 22vw;
+  margin: auto;
+}
+.section8_button {
+  max-width: 10vw;
+  font-size: 0.9vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.6%;
+  border-radius: 4px;
+  color: rgba(234, 255, 150, 1);
+  margin-bottom: 8vw;
+  transition: 0.5s;
+}
+.section8_button:hover {
+  background-color: rgba(234, 255, 150, 1);
+  color: black;
+  cursor: pointer;
+}
+.section8_img {
+  max-width: 90%;
+  text-align: center;
+  margin: auto;
+  display: flex;
+}
+.section8_4 {
+  max-width: 35%;
+  position: relative;
+  top: -1.5vw;
+}
+.section8_5 {
+  max-width: 35%;
+  position: relative;
+  top: -2.5vw;
+  right: 9vw;
+}
+.section8_6 {
+  max-width: 35%;
+  position: relative;
+  top: -0.6vw;
+  right: 22vw;
+}
+.section8_7 {
+  max-width: 35%;
+  right: 38vw;
+  position: relative;
+}

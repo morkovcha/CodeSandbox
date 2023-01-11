@@ -1,0 +1,35 @@
+.section1 {
+  display: block;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+}
+.section1_h1 {
+  font-weight: 300;
+  font-size: 3.2vw;
+  margin: auto;
+  width: 30vw;
+  margin-bottom: 1.6vw;
+}
+.section1_button {
+  max-width: 10vw;
+  font-size: 0.9vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.6%;
+  border-radius: 4px;
+  color: rgba(234, 255, 150, 1);
+  margin-bottom: 18vw;
+  transition: 0.5s;
+}
+.section1_button:hover {
+  background-color: rgba(234, 255, 150, 1);
+  color: black;
+  cursor: pointer;
+}
+.section1_p {
+  color: rgb(138, 143, 143);
+  font-size: 0.9vw;
+  width: 22vw;
+  margin: auto;
+}
